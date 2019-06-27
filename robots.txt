@@ -1,3 +1,14 @@
 User-Agent: *
 Allow: /
+Allow: /discs?
+Allow: /info?
+Allow: /boots?
+Allow: /versions?
+Allow: /bios?
+Allow: /controllers?
+Allow: /plushies?
+Allow: /arcades?
+Allow: /consoles?
+Allow: /browsers?
+
 Sitemap: https://sonicthehedgehogmuseum.tk/sitemap.xml
